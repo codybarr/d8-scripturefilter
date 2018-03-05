@@ -1,0 +1,14 @@
+{
+    "name": "drupal/biblereference",
+    "description": "Adds a custom text format that turns scripture references into links to online bible apps.",
+    "type": "drupal-module",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Cody Barr",
+            "email": "cody.barr@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

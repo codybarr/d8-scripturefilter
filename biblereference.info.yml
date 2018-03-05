@@ -1,0 +1,6 @@
+name: Bible Reference Module
+description: Adds a custom text format that turns scripture references into links to online bible apps.
+package: Custom
+type: module
+version: 1.0
+core: 8.x
