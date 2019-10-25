@@ -1,6 +1,6 @@
-# biblereference
+# scripturefilter
 
-Bible Reference Module
+Scripture Filter Module
 
 ## Description
 
